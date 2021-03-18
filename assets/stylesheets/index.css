@@ -204,8 +204,8 @@ header table {
 #img_here {
     width:90%;
     height:90%;
-    background-size:contain !important;
-    background-repeat:no-repeat !important;
+    background-size:contain ;
+    background-repeat:no-repeat ;
     margin:0px auto;
 }
 #logo {
@@ -251,7 +251,7 @@ header table {
     margin-top:4vh;
 }
 #about table tr td {
-    width:20% !important;
+    width:20% ;
     text-align:left;
 }
 .social {
@@ -344,7 +344,7 @@ header table {
     font-weight:bold;
 }
 #inner_table tr td{
-    padding:10px 20px !important;
+    padding:10px 20px ;
 }
 #contact form {
     width:100%;
@@ -444,9 +444,9 @@ button:focus {
         text-align:center;
     }
     #about {
-        width:92% !important;
+        width:92% ;
         height:75vh;
-        padding-top:20vh !important;
+        padding-top:20vh ;
         text-align:center;
         padding:0px 4%;
     }
@@ -474,7 +474,7 @@ button:focus {
         display:block;
     }
     #inner_table tr td{
-        padding:10px 0px !important;
+        padding:10px 0px ;
     }
     #contact form input {
         width:90%;
